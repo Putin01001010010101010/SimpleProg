@@ -2,4 +2,4 @@
 first repositore for c++
 
 
-new com
+hi Putin
